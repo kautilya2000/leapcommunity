@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Leap
+## Leap Community
 
 You can use the [editor on GitHub](https://github.com/kautilya2000/leapcommunity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
